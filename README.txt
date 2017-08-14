@@ -12,3 +12,4 @@ http://web.engr.oregonstate.edu/~mathewt/NFL/Test.php
 Files:
 All PDFs: Explanation of project, schema, diagrams
 Remaining files are source code (including table creation SQL)
+Applicable queries can be found in "NFLqueries.sql"
