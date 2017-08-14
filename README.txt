@@ -9,6 +9,6 @@ On the team addition form, the second drop-down box populates from the currently
 Live website link:
 http://web.engr.oregonstate.edu/~mathewt/NFL/Test.php
 
-Two Files:
-All Queries/Diagrams in the first ZIP. 
-All Source code (including table creation SQL) is in the second.
+Files:
+All PDFs: Explanation of project, schema, diagrams
+Remaining files are source code (including table creation SQL)
